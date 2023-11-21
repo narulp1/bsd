@@ -1,0 +1,11 @@
+Model Information:
+* title:	peacefull place
+* source:	https://sketchfab.com/3d-models/peacefull-place-f755bba1783e4109b8037f4b56b56fb6
+* author:	JonhGillessen (https://sketchfab.com/JonhGillessen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "peacefull place" (https://sketchfab.com/3d-models/peacefull-place-f755bba1783e4109b8037f4b56b56fb6) by JonhGillessen (https://sketchfab.com/JonhGillessen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
