@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frame_1default
+* source:	https://sketchfab.com/3d-models/frame-1default-c6afd96421fc4ef380119037f1b1f6ec
+* author:	abhinandan (https://sketchfab.com/abhitardalkar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frame_1default" (https://sketchfab.com/3d-models/frame-1default-c6afd96421fc4ef380119037f1b1f6ec) by abhinandan (https://sketchfab.com/abhitardalkar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
