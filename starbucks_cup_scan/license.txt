@@ -1,0 +1,11 @@
+Model Information:
+* title:	Starbucks cup scan
+* source:	https://sketchfab.com/3d-models/starbucks-cup-scan-f89b55c5bc5141ea987c3e628d962068
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Starbucks cup scan" (https://sketchfab.com/3d-models/starbucks-cup-scan-f89b55c5bc5141ea987c3e628d962068) by Austin Beaulier (https://sketchfab.com/Austin.Beaulier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
